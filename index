@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="media-row">
+        <img src="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1294/728/IMG_6227.png?ve=1&tl=1">
+        <video controls playsinline>
+            <source src="videoplayback.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="boxes">
+        <div class="button box-a" data-link="buttona.html" role="button" tabindex="0">A</div> 
+        <div class="button box-b" data-link="buttonb.html" role="button" tabindex="0">B</div> 
+        <div class="button box-c" data-link="buttonc.html" role="button" tabindex="0">C</div> 
+        <div class="button box-d" data-link="buttond.html" role="button" tabindex="0">D</div> 
+        <div class="button box-e" data-link="buttone.html" role="button" tabindex="0">E</div> 
+        <div class="button box-f" data-link="buttonf.html" role="button" tabindex="0">F</div>
+        
+        <div class="button box-g" data-link="buttong.html" role="button" tabindex="0">G</div> 
+        <div class="button box-h" data-link="buttonh.html" role="button" tabindex="0">H</div> 
+        <div class="button box-i" data-link="buttoni.html" role="button" tabindex="0">I</div> 
+        <div class="button box-j" data-link="buttonj.html" role="button" tabindex="0">J</div> 
+        <div class="button box-k" data-link="buttonk.html" role="button" tabindex="0">K</div> 
+        <div class="button box-l" data-link="buttonl.html" role="button" tabindex="0">L</div>
+       
+    </div>
+    <br>
+    
+  </body>
+</html>
